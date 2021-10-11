@@ -8,7 +8,7 @@ import datetime as dt
 from psaw import PushshiftAPI
 from transformers import BertTokenizer, BertForSequenceClassification
 
-## scrape raw comment data
+## scrape raw comment data (ys=year to Start with, ..., ye=year to End with,...)
 def scraper(ys, ms, ds, ye, me, de):
     import csv
     csv.field_size_limit(100000000)
