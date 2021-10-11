@@ -6,3 +6,5 @@ During my master thesis I applied the FinBERT classification algorithm from Pros
 * Resulting in the files in "Abgabe/data/filtered_comments".
 * Those files were now used during the classifcation task
 * Resulting in sentiment scores, as can be found in "Abgabe/data/all_data_quant.csv"
+
+**NOTE:** File paths might be adapted as needed.
